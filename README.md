@@ -104,6 +104,7 @@ Basándonos en las métricas de evaluación obtenidas para ambos modelos y en el
 - Clientes con contratos mensuales: Ofrecer opciones de actualización a contratos a más largo plazo con beneficios adicionales para fomentar la lealtad.
 - Clientes con altos cargos mensuales o totales: Investigar si estos cargos están alineados con el valor percibido por el cliente y considerar ofrecer planes o paquetes más atractivos.
 - Clientes con servicio de Fibra Óptica o pago con cheque electrónico: Analizar si hay problemas específicos asociados con estos servicios o métodos de pago que estén contribuyendo a la cancelación y tomar medidas correctivas.
+
 **Próximos Pasos**: Si bien los modelos actuales proporcionan información valiosa, se podrían explorar técnicas adicionales como la ingeniería de características más avanzada, la consideración de otros modelos (como Gradient Boosting) o la implementación de estrategias de manejo de desbalance de clases para potencialmente mejorar aún más la capacidad predictiva y la interpretabilidad.
 
 En resumen, este análisis inicial ha identificado los principales impulsores de la cancelación de clientes en Telecom X, que va en línea con lo obtenido el análisis descriptivo, por ende proporciona una base sólida para desarrollar estrategias de retención de clientes más específicas y efectivas.
